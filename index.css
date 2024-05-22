@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "ZEISS Frutiger Next";
+  src: url("/fonts/ZEISSFrutigerNextW1G-Bold.ttf") format("truetype"),
+    url("/fonts/ZEISSFrutigerNextW1G-Reg.ttf") format("truetype");
+}

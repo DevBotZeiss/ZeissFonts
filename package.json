@@ -1,6 +1,6 @@
 {
   "name": "@devbotzeiss/zeiss-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fontes Zeiss",
   "main": "index.css",
   "scripts": {
@@ -12,6 +12,5 @@
   "repository": {
     "url": "https://github.com/devbotzeiss/zeiss-fonts"
   },
-  "author": "Henrique Oliveira",
-  "license": "ISC"
+  "author": "Henrique Oliveira"
 }
